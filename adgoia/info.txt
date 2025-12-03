@@ -1,0 +1,2 @@
+nome: Adgoiá,
+cor primaria: #720BAA
